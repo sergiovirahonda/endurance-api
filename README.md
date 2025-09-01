@@ -1,7 +1,6 @@
 # Endurance API
 
 A Golang-based swing trading application that automates trading decisions based on market analysis and user preferences.
-```
 
 ## Features
 
